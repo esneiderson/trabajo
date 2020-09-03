@@ -1,0 +1,114 @@
+body{
+	background-color: #A4918D;
+}
+
+
+.fondo{
+
+}
+
+.titulo{
+	font-family: Courier;
+}
+
+.b1{
+	margin-top: -390px;
+	margin-left: -430px;
+	position: absolute;
+	font-size: 20px;
+	font-family: Verdana;
+	padding: 10px;
+	border-radius: 10px; 
+}
+
+.b1:hover{
+	margin-top: -390px;
+	margin-left: -430px;
+	position: absolute;
+	width: 230px;
+	height: 123px;
+	border-radius: 10px; 
+	background: url(quees.jpg);
+	color: transparent;
+
+}
+
+.b2{
+	margin-top: -390px;
+	margin-left: 270px;
+	position: absolute;
+	font-size: 20px;
+	font-family: Verdana;
+	padding: 10px;
+	border-radius: 10px; 
+}
+
+.b2:hover{
+	margin-top: -390px;
+	margin-left: 270px;
+	position: absolute;
+	width: 200px;
+	height: 123px;
+	border-radius: 10px; 
+	background: url(espacial.jpg);
+	color: transparent;
+
+}
+
+.b3{
+	margin-top: -160px;
+	margin-left: -120px;
+	position: absolute;
+	font-size: 20px;
+	font-family: Verdana;
+	padding: 10px;
+	border-radius: 10px; 
+}
+
+.b3:hover{
+	margin-top: -160px;
+	margin-left: -120px;
+	position: absolute;
+	width: 220px;
+	height: 140px;
+	border-radius: 10px; 
+	background: url(berlin.jpg);
+	color: transparent;
+
+}
+
+.b4{
+	margin-top: -390px;
+	margin-left: -220px;
+	position: absolute;
+	font-size: 45px;
+	color: transparent;
+
+}
+
+.b4:hover{
+	margin-top: -500px;
+	margin-left: -430px;
+	position: absolute;
+	font-size: 35px;
+	color: white;
+
+}
+
+.b5{
+	margin-top: -390px;
+	margin-left: 90px;
+	position: absolute;
+	font-size: 45px;
+	color: transparent;
+
+}
+
+.b5:hover{
+	margin-top: -500px;
+	margin-left: 400px;
+	position: absolute;
+	font-size: 35px;
+	color: white;
+
+}
